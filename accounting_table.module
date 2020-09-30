@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * Implements hook_aggregator_fetcher_info_alter().
+ */
+function accounting_table_theme() {
+  return [
+    'accounting_table_theme' => [
+      'variables' => [
+        'title' => NULL,
+        'accounting_form' => NULL,
+        'base_url' => NULL,
+      ],
+    ],
+  ];
+}

@@ -1,0 +1,6 @@
+name: Accounting table
+type: module
+description: Accounting table module
+package: AccountingTable
+author: Virek
+core: 8.x

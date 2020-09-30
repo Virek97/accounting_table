@@ -1,0 +1,7 @@
+accounting_table.accounting_form:
+  path: '/accounting-table'
+  defaults:
+    _title: 'Accounting Table'
+    _controller: '\Drupal\accounting_table\Controller\Accounting::get_data'
+  requirements:
+    _access: 'TRUE'

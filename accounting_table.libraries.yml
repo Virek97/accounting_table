@@ -1,0 +1,7 @@
+scripts_accounting_table_home:
+  version: 1.0
+  js:
+    js/main.js: { }
+  css:
+    theme:
+      css/accounting_table_styles.css: {}
